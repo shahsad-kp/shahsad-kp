@@ -36,6 +36,6 @@
 <summary>Donate Me</summary>
 <br>
 <p align="center">
-<a href="upi://pay?pn=UPAYI&pa=shahsadkolathur@ybl&cu=INR"><img width="300" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
+<a href="https://upayi.me/shahsadkolathur@ybl"><img width="300" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
 </p>
 </details>
