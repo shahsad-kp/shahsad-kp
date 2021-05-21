@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Shahsad, Welcome to my GitHub Profile
-- **📚 BCA Student in Bengaluru City University**
+- **📚 BCA Student**
 - **🌱 Exploring and Developing Telegram Bots**
 - **💻 Developer in [Code 𝕏 Botz](https://GitHub.com/CodeXBotz)**
 
