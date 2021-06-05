@@ -5,12 +5,12 @@
 
 # My Social Profiles
 <p align="center">
-<a href="https://www.instagram.com/shahsad.klr"><img alt="Instagram" src="https://img.shields.io/badge/shahsad.klr-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/shahsad_klr"><img alt="Twitter" src="https://img.shields.io/badge/shahsadklr-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="http://snapchat.com/add/shahsad_klr"><img alt="Snapchat" src="https://img.shields.io/badge/shahsadklr-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
-<a href="https://t.me/Shahsad_KLR"><img alt="Telegram" src="https://img.shields.io/badge/shahsad.klr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/shahsad.klr/"><img alt="Facebook" src="https://img.shields.io/badge/shahsad.klr-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/Shahsadkolathur/"><img alt="Reddit" src="https://img.shields.io/badge/ShahsadKolathur-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.instagram.com/shahsad.klr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/shahsad.klr-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/shahsad_klr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/shahsadklr-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="http://snapchat.com/add/shahsad_klr" target="_blank"><img alt="Snapchat" src="https://img.shields.io/badge/shahsadklr-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
+<a href="https://t.me/Shahsad_KLR" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/shahsad.klr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.facebook.com/shahsad.klr/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/shahsad.klr-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/Shahsadkolathur/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/ShahsadKolathur-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
 
 ## Tools and Languages I Love
@@ -36,6 +36,6 @@
 <summary>Donate Me</summary>
 <br>
 <p align="center">
-<a href="https://upayi.me/shahsadkolathur@ybl"><img width="300" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
+<a href="https://upayi.me/shahsadkolathur@ybl" target="_blank"><img width="300" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
 </p>
 </details>
