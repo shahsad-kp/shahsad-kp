@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shahsad-klr&theme=highcontrast" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shahsad-kp&theme=highcontrast" align="center">
 </p>
 
 <details>
