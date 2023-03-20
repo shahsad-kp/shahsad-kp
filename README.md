@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Shahsad, Welcome to my GitHub Profile
-- **📚 BCA Student**
-- **🌱 Exploring and Developing Telegram Bots**
-- **💻 Developer in [Code 𝕏 Botz](https://GitHub.com/CodeXBotz)**
+- **🧑🏻‍💻 Passionated web developer**
+- **⚒️ Learning and exploring web**
+- **💻 Django | React Fullstack Developer**
 
 # My Social Profiles
 <p align="center">
