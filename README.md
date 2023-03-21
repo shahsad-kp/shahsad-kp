@@ -31,11 +31,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shahsad-kp&theme=highcontrast" align="center">
 </p>
-
-<details>
-<summary>Donate Me</summary>
-<br>
-<p align="center">
-<a href="https://upayi.me/shahsadkolathur@ybl" target="_blank"><img width="300" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
-</p>
-</details>
