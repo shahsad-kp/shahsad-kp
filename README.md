@@ -1,17 +1,27 @@
-## 👋 Hi, I’m Shahsad KP, Welcome to my GitHub Profile
-- **🧑🏻‍💻 Passionated web developer**
-- **⚒️ Learning and exploring web**
-- **💻 Django | React Fullstack Developer**
+# Hi, I'm Shahsad 👋
 
-# My Social Profiles
-<p align="center">
-<a href="https://www.linkedin.com/in/shahsad-kp/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-shahsadkp-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/shahsad.dev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/shahsad.dev-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/shahsad_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/shahsadklr-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://t.me/shahsad_kp" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/shahsad.klr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/shahsad.dev" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/shahsad.klr-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-</p>
+Software Engineer with 2+ years of experience building full-stack applications. Passionate about clean backend design, real-time systems, and understanding how things work under the hood.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shahsad-kp&theme=highcontrast" align="center">
-</p>
+## 🧑‍💻 Experience
+
+- ⚙️ Backend-heavy full-stack development using **Python**, **Django**, **FastAPI**, **React**, and **Next.js**
+- 🐳 Comfortable with **Docker**, **PostgreSQL**, **Redis**, **Linux**, and CI/CD pipelines
+- 🔧 Built systems involving **REST/GraphQL APIs**, **WebRTC**, **WebSocket**, and **microservices**
+
+## 🚀 Notable Projects
+
+- 📦 LearnEase [Backend](https://github.com/shahsad-kp/LearnEase-Server) - [Frontend](https://github.com/shahsad-kp/LearnEase-Client) – Virtual class room.
+- 🧩 LineUp [Backend](https://github.com/shahsad-kp/lineup-backend) - [Frontend](https://github.com/shahsad-kp/lineup-frontend) – Appointment scheduling application.  
+- 🔐 [FileSharing Bot](https://github.com/CodeXBotz/File-Sharing-Bot) – Telegram bot to store and share files
+
+> Check out my pinned repos for more.
+
+## 📫 Contact
+
+- 📧 shahsadkpklr@gmail.com  
+- 🌐 https://shahsad.dev
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahsad-kp/)
+
+---
+
+Minimal, focused, and always building.
